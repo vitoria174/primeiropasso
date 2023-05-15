@@ -1,5 +1,4 @@
-# primeiropasso
-Página simples em HTML 
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
