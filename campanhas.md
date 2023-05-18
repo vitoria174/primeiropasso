@@ -16,6 +16,7 @@
 	    <a class="menu" href="campanhas.html" >Campanhas Publicitárias</a>
 	    <a class="menu" href="contato.html" >Contato</a>
 	  </ul>
+	  </div>
 	  <div class="text">
 	  <h2 class="titulo" > Campanhas Publicitárias</h2> <br>
 	  <p class="parag01">
@@ -37,4 +38,5 @@
 	  	  <p class="parag01">
 	    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 	  </p>
+	</div>
 </body>
