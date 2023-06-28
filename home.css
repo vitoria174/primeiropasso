@@ -1,0 +1,66 @@
+body{
+  background: #DAD5CF;
+}
+#img01{
+  height: 100%;
+  width: 100%;
+}
+#img02{
+  height: 200%;
+  width: 100%;
+}
+#img{ 
+  height:100%;
+  width:100%;
+  
+}
+#molde{
+  height: 100%;
+  width: 100%;
+}
+#costura{
+  height:100%;
+  width:100%;
+}
+#costura1{
+  height:100%;
+  width:100%;
+}
+#estilista{
+  height: 100%;
+  width: 100%;
+}
+.cabecalho{
+  background:#213A5C;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Serif";
+  
+}
+.menu{
+  color: white;
+  text-decoration: none;
+  Padding: 10px; 
+}
+.text{
+  background: rgb(236,228,218);
+  height: 950px;
+}
+.titulo{
+  background: #758D93;
+  text-align: center;
+}
+.parag01{ 
+  text-align: center;
+  font-size: 25px;
+  font-family: "Times New Roma", Times, Serif;
+  padding: 10px;
+}
+#lista{
+  margin: 10px;
+  font-size:25px;
+  font-family:"Times New Roman", Times, Serif;
+}
+#formulario{
+  text-align: left;
+}
